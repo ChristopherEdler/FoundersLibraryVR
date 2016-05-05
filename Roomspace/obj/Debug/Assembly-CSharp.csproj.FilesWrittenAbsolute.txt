@@ -1,0 +1,17 @@
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Christopher/Desktop/Roomspace/obj/Debug/Assembly-CSharp.dll
+/Users/Christopher/Desktop/Roomspace/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/UnityEngine.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/UnityEditor.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Christopher/Desktop/Roomspace/Temp/bin/Debug/Mono.Cecil.Mdb.dll
